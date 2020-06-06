@@ -1,0 +1,218 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "270號",
+        "short_name": "270號",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "崇德路二段",
+        "short_name": "崇德路二段",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "北屯區",
+        "short_name": "北屯區",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "台中市",
+        "short_name": "台中市",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "台灣",
+        "short_name": "TW",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "406",
+        "short_name": "406",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"postal-code\">406</span><span class=\"country-name\">台灣</span><span class=\"region\">台中市</span><span class=\"locality\">北屯區</span><span class=\"street-address\">崇德路二段270號</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "406台灣台中市北屯區崇德路二段270號",
+    "formatted_phone_number": "04 2241 2700",
+    "geometry": {
+      "location": {
+        "lat": 24.175348,
+        "lng": 120.6859193
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.1767012302915,
+          "lng": 120.6871973302915
+        },
+        "southwest": {
+          "lat": 24.1740032697085,
+          "lng": 120.6844993697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "efddec68c3fde2073f05713bb385d625ef37f12b",
+    "international_phone_number": "+886 4 2241 2700",
+    "name": "康德動物醫院（24H夜間急診）",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "星期一: 24 小時營業",
+        "星期二: 24 小時營業",
+        "星期三: 24 小時營業",
+        "星期四: 24 小時營業",
+        "星期五: 24 小時營業",
+        "星期六: 24 小時營業",
+        "星期日: 24 小時營業"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105112597955512057426\">J</a>"
+        ],
+        "photo_reference": "CmRaAAAAgTVbFAAq0UZ9n7_OhFMkfAJbKpWsY-bq92XrdF2BJ9cdh4C3Rivn0RwDvDJrMLDRwSrVY2fWGf-1p52pv--QZNHjn1l1qnzG-pp7_mmeFoxRcd4I4G-B6ld_f-B9BftvEhBuEb4H5Qt2YIwDXPteCWduGhQbb0_CfUZNeaM29bSW4cJneO0KoQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117258027586780958944\">呂芝媗</a>"
+        ],
+        "photo_reference": "CmRaAAAAuKH9h1ZzJezD6yOfzqYHdsTXDThX-ypKd9JcYMGf1FpsWGnhDMUqBFYGKfl14NM0MhV5WNtc0c0KEDjVLV48OaXQaeREGEpobm3BTcw4NGMVB45PZdKeN_WsgnyXclPkEhDFlS-kivHsLjXjOp8e-CY_GhRHpedEJShMNVIqVpcm-DsUy_-4hA",
+        "width": 3024
+      },
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114915442120741259809\">Steve Dan K.</a>"
+        ],
+        "photo_reference": "CmRZAAAAs7uLn_I8mx0Gd4qTkOz80U9JlPXJq65whwR2Ad9oT3tL0E4nVZGndCfkqdY4G0b2oM1TPQU4mutnyWedMAynPgerWRYtXkTzY5H76FXfTjEaDNjU2wgiYIQR6xztuburEhBT9zchR-KB1Vjn1yoBFZLvGhSxN72dP1n_cpKssWKR_GkGIN-Bzg",
+        "width": 1296
+      },
+      {
+        "height": 416,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113049708673453620186\">康德動物醫院（24H夜間急診）</a>"
+        ],
+        "photo_reference": "CmRaAAAAHWHhoSec2l3MSSy6l77HiQ8x-iExSwFI0UXN_f6OJdJNNkNutHyLHrAHKIQHLnxX9PLUf9gSGXfK4EfUC1MFwMdYCPhyshaNcbJU10y1Fik7XxFrhEEsiAy5gtmuYcotEhB_9HoJAkCJ2ANMj7lEYFJIGhQocbCfNIkdaSUk-ReeZ3u_-aUfuA",
+        "width": 738
+      },
+      {
+        "height": 1966,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113049708673453620186\">康德動物醫院（24H夜間急診）</a>"
+        ],
+        "photo_reference": "CmRaAAAAjp8x5epH7Hp_kOyHv83gIeIFZCbEQoVuQofbWFMXAj9cO1VubueZVF-uePEu5Lp60TUd7aBEVpUHLzIcdrf5CqIIdDsM-bbwqfLk65EdJq0kqTwf2_WUNLUL6nZWxZJ5EhBl4nkfX-qce8C0eE81oHtGGhTa1cY6uRujf1IX6PUpDF9pRvfRaA",
+        "width": 1390
+      },
+      {
+        "height": 2442,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115256380868870184669\">Vic.旅行隨手拍</a>"
+        ],
+        "photo_reference": "CmRaAAAANdZ0rcW1JFk0Yujq6vV2V0fDplzlVzWMPMfO_oPDyiVsEQE8-lVV0otjp3t29u_Jk5nGB8V_otNRKVaosiL45nPZerf3C-UpjkAh7hUzSsuBV-1ghLB4TpMNRQKRb4o3EhDvkRczncY-sO6fuB7ppwYoGhT1XZqt1KcRL-mjmUR5xEF757izbw",
+        "width": 3547
+      }
+    ],
+    "place_id": "ChIJDcNFJwYXaTQRVwAUOXNMHc8",
+    "plus_code": {
+      "compound_code": "5MGP+49 台灣台中市北屯區平福里",
+      "global_code": "7QP25MGP+49"
+    },
+    "rating": 4.4,
+    "reference": "ChIJDcNFJwYXaTQRVwAUOXNMHc8",
+    "reviews": [
+      {
+        "author_name": "永祥",
+        "author_url": "https://www.google.com/maps/contrib/101034802007273402288/reviews",
+        "language": "zh-Hant",
+        "profile_photo_url": "https://lh5.ggpht.com/-7lTQCybW3j4/AAAAAAAAAAI/AAAAAAAAAAA/z76wQbfLzLQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "3 週前",
+        "text": "收費合理！醫生和助理都很熱心，半夜貓咪生寶寶（貓媽媽第一胎）！電話中醫生很耐心的解答，醫生希望貓咪自然生產不要急著帶過來（造成貓媽媽心裡壓力），醫生電話中告知先觀察4-5個小時真的沒生在帶過來醫生評估是否剖腹產，很開心貓媽媽自然生產，但不會處理臍帶請醫生幫忙，順利生下6隻貓寶寶母子都平安謝謝醫生和助理！",
+        "time": 1588632613
+      },
+      {
+        "author_name": "旅行隨手拍 Vic.",
+        "author_url": "https://www.google.com/maps/contrib/115256380868870184669/reviews",
+        "language": "zh-Hant",
+        "profile_photo_url": "https://lh5.ggpht.com/-OnzpfJ8vKzY/AAAAAAAAAAI/AAAAAAAAAAA/KnRBQXmtrOs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "8 個月前",
+        "text": "還滿不錯的，醫生跟助手都很有經驗！\n設備齊全，現場做檢查也方便，基本急診加掛號是850元~算便宜了!",
+        "time": 1569943807
+      },
+      {
+        "author_name": "天江昊",
+        "author_url": "https://www.google.com/maps/contrib/103057690007251340891/reviews",
+        "language": "zh-Hant",
+        "profile_photo_url": "https://lh5.ggpht.com/-tYp9YQndIXs/AAAAAAAAAAI/AAAAAAAAAAA/W5qaPvHGMME/s128-c0x00000000-cc-rp-mo/photo.jpg",
+        "rating": 1,
+        "relative_time_description": "1 個月前",
+        "text": "晚上去是院長接待覺得不錯\n但其他的不知道也是醫生還是實習生\n隔天早上去看狗狗，正常要解說一下吧\n結果人直接走，我還特地問他我的小孩狀況\n什麼都不知道，原來什麼都不知道也能站在那邊\n誠心推薦晚上逼不得已送來\n但隔天早上一定要轉院\n會留言不是為了攻擊醫院\n而是希望不要有更多的小寶貝被害死\n最後急診裡面給個小建議不要放飲料跟食物\n然後乖乖要放綠色的不是黃色的😡",
+        "time": 1587280284
+      },
+      {
+        "author_name": "Johnson Tsai",
+        "author_url": "https://www.google.com/maps/contrib/114036699117637453711/reviews",
+        "language": "zh-Hant",
+        "profile_photo_url": "https://lh3.ggpht.com/-LVjTlWfwtKg/AAAAAAAAAAI/AAAAAAAAAAA/_Z4R05day_k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+        "rating": 1,
+        "relative_time_description": "1 個月前",
+        "text": "晚上送醫急救，早上問醫生竟都說不曉得，交班前應該都要互相告知每個動物的病情嚴重吧。\n治療動物的手術台 還能放食物飲料課本？是打算邊治療邊享受食物嗎？",
+        "time": 1587279503
+      },
+      {
+        "author_name": "J",
+        "author_url": "https://www.google.com/maps/contrib/105112597955512057426/reviews",
+        "language": "zh-Hant",
+        "profile_photo_url": "https://lh5.ggpht.com/-JQ9IQ8CkQkM/AAAAAAAAAAI/AAAAAAAAAAA/dmolevdGS34/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "8 個月前",
+        "text": "醫生們專業有耐心，會詳細講解毛孩的問題，並提出建議",
+        "time": 1568044177
+      }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14924168797938253911",
+    "user_ratings_total": 81,
+    "utc_offset": 480,
+    "vicinity": "北屯區崇德路二段270號",
+    "website": "https://www.facebook.com/kantvet/"
+  },
+  "status": "OK"
+}

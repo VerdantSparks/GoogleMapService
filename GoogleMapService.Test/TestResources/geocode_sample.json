@@ -1,0 +1,99 @@
+{
+  "results": [
+    {
+      "access_points": [
+        {
+          "access_point_type": "TYPE_SEGMENT",
+          "location": {
+            "latitude": 24.1753524,
+            "longitude": 120.6858463
+          },
+          "location_on_segment": {
+            "latitude": 24.1753565,
+            "longitude": 120.6857774
+          },
+          "place_id": "ChIJnbkeqsMXaTQRpzO1NwGE-Xg",
+          "segment_position": 0.1042211651802063,
+          "unsuitable_travel_modes": []
+        }
+      ],
+      "address_components": [
+        {
+          "long_name": "270號",
+          "short_name": "270號",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Section 2, Chongde Road",
+          "short_name": "Section 2, Chongde Road",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Beitun District",
+          "short_name": "Beitun District",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Taichung City",
+          "short_name": "Taichung City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Taiwan",
+          "short_name": "TW",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "406",
+          "short_name": "406",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "No. 270號, Section 2, Chongde Road, Beitun District, Taichung City, Taiwan 406",
+      "geometry": {
+        "location": {
+          "lat": 24.175348,
+          "lng": 120.6859193
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 24.1766969802915,
+            "lng": 120.6872682802915
+          },
+          "southwest": {
+            "lat": 24.1739990197085,
+            "lng": 120.6845703197085
+          }
+        }
+      },
+      "place_id": "ChIJDcNFJwYXaTQRVwAUOXNMHc8",
+      "plus_code": {
+        "compound_code": "5MGP+49 Taiwan, 台中市北屯區平福里",
+        "global_code": "7QP25MGP+49"
+      },
+      "types": [
+        "establishment",
+        "health",
+        "point_of_interest",
+        "veterinary_care"
+      ]
+    }
+  ],
+  "status": "OK"
+}

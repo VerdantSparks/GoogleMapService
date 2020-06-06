@@ -1,0 +1,106 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1067517,
+          "lng": 120.624932
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.1080890302915,
+            "lng": 120.6263461802915
+          },
+          "southwest": {
+            "lat": 24.1053910697085,
+            "lng": 120.6236482197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "00e711a2c474e5ecf39f6a631aea015d445d0e02",
+      "name": "英仁動物醫院",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 551,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110009567741030136773\">英仁動物醫院</a>"
+          ],
+          "photo_reference": "CmRaAAAARXd0ft9HCTLRPQh5snbBJg2Unl6qWf7iN6-3zKwPRs4-_Jf80yVWgjq1bPJv347ju7eMNKhktYtMgKrWTrUXAsTYxhXoEaF1TE9tMxnf1-0OQ5iD2DpQv4gCW_Dzo_gfEhA5ieQgXz-RgGVfP1DCBu16GhQ-z6Hm6TF16Rpvg0v1sJweaaR-zA",
+          "width": 551
+        }
+      ],
+      "place_id": "ChIJL2QspR48aTQR07iLp3R0Zu0",
+      "plus_code": {
+        "compound_code": "4J4F+PX 台灣台中市烏日區烏日里",
+        "global_code": "7QP24J4F+PX"
+      },
+      "rating": 4.5,
+      "reference": "ChIJL2QspR48aTQR07iLp3R0Zu0",
+      "scope": "GOOGLE",
+      "types": [
+        "veterinary_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 153,
+      "vicinity": "烏日區光日路145號"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.104038,
+          "lng": 120.627974
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.1054312302915,
+            "lng": 120.6293153302915
+          },
+          "southwest": {
+            "lat": 24.1027332697085,
+            "lng": 120.6266173697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "bc47d571d299375383b764e234f9b0f02bcf7317",
+      "name": "毛毛動物診所",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103472958400683960204\">毛毛動物診所</a>"
+          ],
+          "photo_reference": "CmRaAAAAWA04O5cXK9mqu12pqaoQCJaJ6FUpagthKa-VfTnQbwnKbSckg50WLQpK4pM7ousoicbSkR_ugxAoNmfMeHvQOYlx5meWWsbwR4xhu27NyZ3fCuGPSuzTckOOyq5azgrbEhD4L2NnBKtpftxPlCQDgkGdGhT6I1rIv3O7JJuUbsmRJff7XCFEDA",
+          "width": 280
+        }
+      ],
+      "place_id": "ChIJWVu9txs8aTQRGJLdqMGxSao",
+      "plus_code": {
+        "compound_code": "4J3H+J5 台灣台中市烏日區烏日里",
+        "global_code": "7QP24J3H+J5"
+      },
+      "rating": 4.1,
+      "reference": "ChIJWVu9txs8aTQRGJLdqMGxSao",
+      "scope": "GOOGLE",
+      "types": [
+        "veterinary_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 51,
+      "vicinity": "烏日區新興路111號"
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapService.Test", "GoogleMapService.Test\GoogleMapService.Test.csproj", "{2A9206C8-208F-4006-A409-D2D26B44783F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapService", "GoogleMapService\GoogleMapService.csproj", "{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Debug|x64.Build.0 = Debug|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Debug|x86.Build.0 = Debug|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Release|x64.ActiveCfg = Release|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Release|x64.Build.0 = Release|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Release|x86.ActiveCfg = Release|Any CPU
+		{2A9206C8-208F-4006-A409-D2D26B44783F}.Release|x86.Build.0 = Release|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Debug|x64.Build.0 = Debug|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Debug|x86.Build.0 = Debug|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Release|x64.ActiveCfg = Release|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Release|x64.Build.0 = Release|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Release|x86.ActiveCfg = Release|Any CPU
+		{53F3EDAE-FD1C-4E26-AB3A-3B391D08B597}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
