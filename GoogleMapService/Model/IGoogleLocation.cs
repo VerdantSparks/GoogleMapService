@@ -1,4 +1,4 @@
-namespace GoogleMapService.Model
+namespace LocationData.Model
 {
     public interface IGoogleLocation
     {

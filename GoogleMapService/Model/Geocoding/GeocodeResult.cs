@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace GoogleMapService.Model.Geocoding
+namespace LocationData.Model.Geocoding
 {
     public class GeocodeResult : BaseActualResult
     {

@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace GoogleMapService.Model
+namespace LocationData.Model
 {
     public class GoogleApiQueryResult<T>
     {

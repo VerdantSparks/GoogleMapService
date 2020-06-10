@@ -3,15 +3,15 @@
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <LangVersion>latest</LangVersion>
-        <PackageId>VerdantSparks.GoogleMapService</PackageId>
-        <Version>1.0.1</Version>
+        <PackageId>VerdantSparks.LocationData.GoogleMapService</PackageId>
+        <Version>1.0.2</Version>
         <Authors>Ferry To</Authors>
         <Company>VerdantSparks</Company>
         <PackageDescription>
             This package maps usual types returned from Google Map API.
         </PackageDescription>
         <RepositoryUrl>https://github.com/VerdantSparks/GoogleMapService</RepositoryUrl>
-        <RootNamespace>GoogleMapService</RootNamespace>
+        <RootNamespace>LocationData</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

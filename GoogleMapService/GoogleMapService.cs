@@ -3,14 +3,14 @@ using System.Collections.Specialized;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
-using GoogleMapService.Model;
-using GoogleMapService.Model.Geocoding;
-using GoogleMapService.Model.Place;
-using GoogleMapService.Model.Place.Nearby;
-using GoogleMapService.Model.Place.Place;
+using LocationData.Model;
+using LocationData.Model.Geocoding;
+using LocationData.Model.Place;
+using LocationData.Model.Place.Nearby;
+using LocationData.Model.Place.Place;
 using Newtonsoft.Json;
 
-namespace GoogleMapService
+namespace LocationData
 {
     public class GoogleMapService
     {

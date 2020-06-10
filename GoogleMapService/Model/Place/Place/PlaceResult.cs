@@ -1,7 +1,7 @@
 using System;
 using Newtonsoft.Json;
 
-namespace GoogleMapService.Model.Place.Place
+namespace LocationData.Model.Place.Place
 {
     public class PlaceResult : BasePlaceResult
     {

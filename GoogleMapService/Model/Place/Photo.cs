@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace GoogleMapService.Model.Place
+namespace LocationData.Model.Place
 {
     public class Photo
     {

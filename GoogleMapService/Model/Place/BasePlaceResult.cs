@@ -1,7 +1,7 @@
 using System;
 using Newtonsoft.Json;
 
-namespace GoogleMapService.Model.Place
+namespace LocationData.Model.Place
 {
     public abstract class BasePlaceResult : BaseActualResult
     {

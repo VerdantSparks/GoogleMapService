@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace GoogleMapService.Model.Place.Nearby
+namespace LocationData.Model.Place.Nearby
 {
     public class OpeningHours
     {

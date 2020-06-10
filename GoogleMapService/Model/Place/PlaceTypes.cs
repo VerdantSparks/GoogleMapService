@@ -1,4 +1,4 @@
-namespace GoogleMapService.Model.Place
+namespace LocationData.Model.Place
 {
     public class PlaceTypes
     {
